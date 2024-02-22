@@ -18,7 +18,7 @@
 
 
 
-**报告为pdf格式包含动图，请老师使用Adode和pdf xchage等支持pdf gif预览的文件查看**
+**报告为pdf格式包含动图，请使用Adode或者pdfexchage等支持pdf gif预览的文件查看**
 
 
 
