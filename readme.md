@@ -26,3 +26,13 @@
 
 `by@YanMing,BreezeConfirmingWms@github.com，2023/5/31`
 
+
+
+
+`git clone <url> --recursive`
+
+or 
+
+`git clone;git submoudle update --init --recursive`
+
+👍:
