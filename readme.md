@@ -62,9 +62,22 @@
 </center>
 
 
+### Slam建图:
+`ros仿真`
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/SLAM%E5%BB%BA%E5%9B%BE%E6%A8%A1%E5%9D%97/build.gif"></img>
+
+`matlab结合ros`:
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/SLAM%E5%BB%BA%E5%9B%BE%E6%A8%A1%E5%9D%97/%E5%8A%A8%E5%9B%BE/slam.gif"></img>
+`result`
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/SLAM%E5%BB%BA%E5%9B%BE%E6%A8%A1%E5%9D%97/%E5%8A%A8%E5%9B%BE/slam2.jpg"></img>
+
+
+
+
 ### Amcl蒙特卡洛定位
 `python ros端模型`:
-
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/AMCL%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E5%AE%9A%E4%BD%8D%E6%A8%A1%E5%9D%97/%E6%96%9C%E5%90%91%E5%8A%A8%E5%9B%BE/slanted.gif"></img>
 
 <video controls>
   <source src="https://private-user-images.githubusercontent.com/82481204/316372167-a687505f-ba6d-44c4-8c64-a4a8b99a3d45.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEzMzUzMDgsIm5iZiI6MTcxMTMzNTAwOCwicGF0aCI6Ii84MjQ4MTIwNC8zMTYzNzIxNjctYTY4NzUwNWYtYmE2ZC00NGM0LThjNjQtYTRhOGI5OWEzZDQ1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI1VDAyNTAwOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTI3OTU1YWVlNmYxNWU5ZmZlYzU0NTlkOWU2M2E0ZDFmNTNkY2VkNTkzOTBmZjY0N2JmYWEyODI0Njc0MTI5YjYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.RSAimEA6TRFztFPRNc3pDJjZA1La2h5vavR8a4QlHmI" type="video/mp4">
