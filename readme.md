@@ -24,7 +24,13 @@
 
 
 
-`by@YanMing,BreezeConfirmingWms@github.com，2023/5/31`
+<img src="AMCL蒙特卡洛定位模块/斜向动图
+/animationslanted.gif" alt="amcl定位+建模动图">
+
+****
+
+
+`By@YanMing,BreezeConfirmingWms@github.com，2023/5/31`
 
 
 
