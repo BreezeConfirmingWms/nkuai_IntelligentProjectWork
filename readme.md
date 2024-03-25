@@ -27,6 +27,21 @@
 **更多信息请查阅pdf,为包含动图的pdf格式,请使用Adode或者pdfexchage等支持pdf gif预览的文件查看**
 
 ## 实验效果
+### 定点控制器
+
+
+#### 路径跟踪控制器
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E5%AE%9A%E7%82%B9%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/GIF/controller1.gif" alt="pursuitcontroller">
+
+#### 非线性定点跟踪控制器(课件)
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E5%AE%9A%E7%82%B9%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/GIF/controller2.gif" alt="fixcontroller">
+
+#### 极坐标控制器(课件)
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E5%AE%9A%E7%82%B9%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/GIF/controller3.gif" alt="polarcontroller">
+
 
 
 ### ICP配准
