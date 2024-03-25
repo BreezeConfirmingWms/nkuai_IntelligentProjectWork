@@ -24,8 +24,7 @@
 
 
 
-<img src="AMCL蒙特卡洛定位模块/斜向动图
-/animationslanted.gif" alt="amcl定位+建模动图">
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/AMCL%E8%92%99%E7%89%B9%E5%8D%A1%E6%B4%9B%E5%AE%9A%E4%BD%8D%E6%A8%A1%E5%9D%97/%E6%96%9C%E5%90%91%E5%8A%A8%E5%9B%BE/animationslanted.gif" alt="amcl定位+建模动图">
 
 ****
 
