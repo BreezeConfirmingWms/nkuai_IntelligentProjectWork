@@ -43,9 +43,23 @@
 <img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E5%AE%9A%E7%82%B9%E6%8E%A7%E5%88%B6%E5%99%A8%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/GIF/controller3.gif" alt="polarcontroller">
 
 
+### 里程计Odomestry
+
+误差椭圆曲线模型;
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E9%87%8C%E7%A8%8B%E8%AE%A1%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/%E5%9B%BE%E7%89%87%E7%BB%93%E6%9E%9C/ellipse2.jpg"></img>
+
+
+然后是没什么人做但是ppt上有的高斯误差模型;
+
+<img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/%E9%87%8C%E7%A8%8B%E8%AE%A1%E4%BB%A3%E7%A0%81%E4%B8%8E%E6%94%AF%E6%92%91%E6%9D%90%E6%96%99/%E5%9B%BE%E7%89%87%E7%BB%93%E6%9E%9C/NotGau.jpg"></img>
+
 
 ### ICP配准
 
+<center class="half">
+  <img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/ICP%E4%BB%A3%E7%A0%81/%E5%9B%BE%E7%89%87/showOxStreet.jpg"></img><img src="https://github.com/BreezeConfirmingWms/nkuai_IntelligentProjectWork/blob/develop/ICP%E4%BB%A3%E7%A0%81/%E5%9B%BE%E7%89%87/ICPt1.jpg"></img>
+</center>
 
 
 ### Amcl蒙特卡洛定位
